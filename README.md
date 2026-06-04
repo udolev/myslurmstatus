@@ -99,11 +99,4 @@ Supported environment variables:
 
 ## Included Slurm Docs
 
-This repo also includes BIU Slurm reference material:
-
-- `SLURM_GUIDE.md`
-- `slurm-usage.pdf`
-
-## License
-
-No license file is included yet.
+This repo also includes BIU Slurm reference material in `slurm-usage.pdf`.

@@ -1,5 +1,6 @@
 # Internal / local-only files.
 ROADMAP.md
+SLURM_GUIDE.md
 
 # Local tests.
 test_myslurmstatus.py

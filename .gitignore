@@ -1,0 +1,19 @@
+# Internal / local-only files.
+ROADMAP.md
+
+# Local tests.
+test_myslurmstatus.py
+tests/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
